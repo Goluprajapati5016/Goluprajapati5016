@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on Python Developer & Problem Solver
+- 🎯 https://img.icons8.com/?size=100&id=87311&format=png&color=000000 Focused on Python Developer & Problem Solver
 - 🌐 Portfolio: [MyProfile](https://goluprajapati.vercel.app/)
 - 📩 Email: [MyEmail](mailto:gp1515151@gmail.com)
 - 💼 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/goluprajapti5016/)
