@@ -13,6 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🎯 Focused on Python Developer & Problem Solver
+- [![3D Model on Sketchfab](https://your-thumbnail-url.com)](https://sketchfab.com/3d-model-url)
+
 - 🌐 Portfolio: [MyProfile](https://goluprajapati.vercel.app/)
 - 📩 Email: [MyEmail](mailto:gp1515151@gmail.com)
 - 💼 LinkedIn: [MyLinkedIn](https://www.linkedin.com/in/goluprajapti5016/)
